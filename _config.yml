@@ -1,6 +1,6 @@
-title: Your awesome title
+title: XChainjs Documentation
 lang: en
-description: Write an awesome description for your new site here
+description: XChainJS is a library with a common interface for multiple blockchains, built for simple and fast integration for wallets and more. 
 
 ## local method ##
 # theme: jekyll-rtd-theme
@@ -23,5 +23,3 @@ plugins:
   - jemoji
   - jekyll-avatar
   - jekyll-mentions
-
-theme: jekyll-theme-slate
